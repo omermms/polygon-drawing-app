@@ -1,0 +1,16 @@
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\bin\Debug\net8.0-windows\B221202069.exe
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\bin\Debug\net8.0-windows\B221202069.deps.json
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\bin\Debug\net8.0-windows\B221202069.runtimeconfig.json
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\bin\Debug\net8.0-windows\B221202069.dll
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\bin\Debug\net8.0-windows\B221202069.pdb
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\projectOOP.Form1.resources
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.csproj.GenerateResource.cache
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.AssemblyInfoInputs.cache
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.AssemblyInfo.cs
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.csproj.CoreCompileInputs.cache
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.dll
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\refint\B221202069.dll
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.pdb
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\B221202069.genruntimeconfig.cache
+C:\Users\omemi\OneDrive\Masaüstü\Yeni klasör (3)\OopProje\obj\Debug\net8.0-windows\ref\B221202069.dll
